@@ -1,0 +1,6 @@
+framework module DTT {
+  umbrella header "DTT-umbrella.h"
+
+  export *
+  module * { export * }
+}

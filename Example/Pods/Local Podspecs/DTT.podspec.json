@@ -1,0 +1,22 @@
+{
+  "name": "DTT",
+  "version": "0.1.0",
+  "summary": "A short description of DTT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/junwu555/DTT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "junwu555": "1908812367@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/junwu555/DTT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DTT/Classes/**/*"
+}
